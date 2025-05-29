@@ -4,9 +4,8 @@
 
 - 👨🏼‍🎓 Ocupación: Estudiante / Sanguijuela
 - 🏫 Escuela: Escuela de Educacion Secundaria Técnica Nro 1 Esteban Echeverria
-- 🌎 Vivienda: General Alvear 1192 Y Ascassubi 1842, Monte Grande, Esteban Echeverria, Buenos Aires, Argentina, Continente Americano, Planeta Tierra, Sistema Solar, 3er Brazo de la Via Lactea, Universo, Tierra-1218 ·
-- 🏹 Curso y Grupo: 6to 3ra / grupo 6.8
-- 😶‍🌫️ Fan de Katy Perry y del Phonk 
+- 🌎 Vivienda: General Alvear, Monte Grande, Esteban Echeverria
+- 🏹 Curso y Grupo: 7mo 2da / grupo 7.4
 - 📩 Mail: sanchezbruno115@gmail.com / oncedeabrilde2007@gmail.com / 3zequielbsanchez@gmail.com
 - 📥 CVU: 0000003100010795452182
 - 📝 Lenguajes de Programacion Trabajados: 
